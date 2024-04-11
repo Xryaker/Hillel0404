@@ -2,7 +2,7 @@ package lesson0808;
 
 public class Lesson016ForLoop {
     public static void main(String[] args) {
-        int[] mass = new int[]{1, 2, 5, 5, 454};
+        int[] mass = new int[]{1, 2, 5, 5, 454,44,44,5,56,6,6};
         int sum = 0;
         for (int i = 3; i < mass.length; i++) {
             sum = sum + mass[i];
