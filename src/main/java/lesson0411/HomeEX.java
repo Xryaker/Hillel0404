@@ -19,7 +19,9 @@ public class HomeEX {
             case "+":
                 System.out.println("summa = "+MyMathUtils.sum(ch1, ch2));
                 break;
-
+            case "-":
+                System.out.println( "otvet = "+MyMathUtils.ot(ch1,ch2) );
+                break;
             default:
                 System.out.println("Vveli nekorectnuy znak:)");
 
