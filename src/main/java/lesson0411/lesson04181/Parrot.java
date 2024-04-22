@@ -21,5 +21,4 @@ public class Parrot extends Bird{
     public String toString() {
         return "this is "+getName()+" "+getAge();
     }
-
 }

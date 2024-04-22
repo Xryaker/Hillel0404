@@ -3,7 +3,7 @@ package lesson0411.lesson04181;
 public class Animal {
     private String name;
     private int age;
-
+public static void aa(){}
     public String getName() {
         return name;
     }
